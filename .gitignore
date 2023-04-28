@@ -1,0 +1,3 @@
+# ignore specific files
+*.txt
+node_modules/
